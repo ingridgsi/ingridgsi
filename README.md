@@ -6,7 +6,7 @@ Currently, I'm learning how to code and pursuing a career as a Full-Stack develo
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 🔭 I’m currently working on creating webpages to practice what I've been learning.
 - 😀 I enjoy cooking, reading, and watching series in my free time.
-- 📫 You can reach me by sending a message [here](isg.ingridguimaraes@gmail.com).
+- 📫 You can reach me by sending a message [here](mailto:isg.ingridguimaraes@gmail.com).
 - ⚡ Fun fact: I walk 6 km every day in the morning 🚶🏻‍♀️🚶🏻‍♀️🚶🏻‍♀️
 
  ###
