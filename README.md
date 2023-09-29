@@ -3,7 +3,7 @@
 As an enthusiastic and curious woman, I have developed a passion for the Tech field after working as an IT recruiter.
 Currently, I'm learning how to code and pursuing a career as a Full-Stack developer. 👩🏻‍💻
 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React and GIT.
 - 🔭 I’m currently working on creating webpages to practice what I've been learning.
 - 😀 I enjoy cooking, reading, and watching series in my free time.
 - 📫 You can reach me by sending a message to isg.ingridguimaraes@gmail.com
