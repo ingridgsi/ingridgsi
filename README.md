@@ -7,7 +7,7 @@ Currently, I'm learning how to code and pursuing a career as a Front-end develop
 - 🔭 I’m currently working on creating webpages and web apps to practice what I've been learnin. You can check out my main projectsdown below.
 - 😀 I enjoy cooking, reading, and watching series in my free time.
 - 📫 You can reach me by sending a message to isg.ingridguimaraes@gmail.com
-- ⚡ Fun fact: I walk 6 km every day in the morning 🚶🏻‍♀️🚶🏻‍♀️🚶🏻‍♀️
+
 
  ###
  <div>
