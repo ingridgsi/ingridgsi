@@ -4,7 +4,7 @@ As an enthusiastic and curious woman, I have developed a passion for the Tech fi
 Currently, I'm learning how to code and pursuing a career as a Front-end developer. 👩🏻‍💻
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, GIT and related subjects.
-- 🔭 I’m currently working on creating webpages and web apps to practice what I've been learnin. You can check out my main projectsdown below.
+- 🔭 I’m currently working on creating webpages and web apps to practice what I've been learnig. You can check out my main projectsdown below.
 - 😀 I enjoy cooking, reading, and watching series in my free time.
 - 📫 You can reach me by sending a message to isg.ingridguimaraes@gmail.com
 
